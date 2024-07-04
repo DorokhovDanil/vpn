@@ -743,7 +743,7 @@ header{
     flex-direction: column;
     
     width: 100%; 
-    /* height: 85%; */
+   height: 100%;
    
     
     background-color: #004AAD;
@@ -769,7 +769,7 @@ header{
 .buy_exe{
     margin-top: 5.2083vw;
     z-index: 1;
-    /* margin-top: 8.3333vw; */
+    margin-top: 8.3333vw;
     border-style: outset;
     border-top-color: white;
     border-left-color: white;
